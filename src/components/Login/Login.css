@@ -1,0 +1,15 @@
+.provider-signin{
+    margin: 20px;
+}
+
+.provider-signin button{
+    background-color: rgb(204, 220, 204);
+    padding: 5px;
+    font-weight: 600;
+    border: none;
+}
+
+.provider-signin button:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+}

@@ -1,7 +1,13 @@
+.header{
+    background-color: aquamarine;
+    padding: 7px 0px;
+}
+
 .header nav a {
     margin-right: 20px;
     text-decoration: none;
     color: black;
+    font-weight: 800;
 }
 
 .header nav a:hover {
